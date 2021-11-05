@@ -2,18 +2,177 @@ body {
     width: 900px;
 }
 #logo {
+    display: flex;  
+    margin-top: 3%;
+}
+.lo {
     display: flex;
-    
+}
+#lo2 {
+    color: #F6B400;
+}
+.rain #rain1 button {
+    background-color: #F6B400;
 }
 #navbar ul {
     display: flex;
+    background-color: #F6B400;
     justify-content: flex-end;
     list-style: none;
     justify-content: space-evenly;
     margin-bottom: 5%;
-    margin-left: 30%;
+    margin-left: 40%;
 }
-.image {
-    float: right;
-    margin-right: 15%;
+#yellow  {
+    background-color: #F6B400;
+    left: -50;
+    height: 300px;
+    width: 50%;
+    border-right: solid #F6B400;
+    border-width: 130px;
+   
+  }
+#navbar {  
+    margin-top: 0%;
+    margin-bottom: 5%;
+}
+.rain {
+    margin-bottom: 0%;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10%;
+}
+.section1 {
+    margin-top: 5%;
+}
+.section2 {
+display: flex;
+margin-top: 0%;
+height: 350px;
+background-color: #E1EBE6;
+}
+.menu {
+    display: flex;
+    text-align: center;
+    margin-left: 45%;
+}
+#menu {
+    color: #F6B400;
+}
+.section2 #quality {
+    border: solid black;
+    text-align: center;
+    border-radius: 15px;
+    width: 300px;
+    margin: 10px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section2 #fast {
+    border: solid black;
+    text-align: center;
+    border-radius: 15px;
+    width: 300px;
+    margin: 10px;
+    padding: 5px;
+}
+.section2 #delicious {
+    border: solid black;
+    text-align: center;
+    border-radius: 15px;
+    width: 300px;
+    margin: 10px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    padding: 5px;
+}
+.section3 h1 {
+    text-align: center;
+}
+.one {
+    display: flex;
+
+}
+.two {
+    display: flex;
+}
+#double1 {
+border: solid black;
+border-radius: 20px;
+box-shadow: 2px 4px;
+text-align: center;
+margin: 10px;
+}
+#double2 {
+    border: solid black;
+    border-radius: 20px;
+    box-shadow: 2px 4px;
+    text-align: center;
+    margin: 10px;
+}
+#double3 {
+    border: solid black;
+    border-radius: 20px;
+    box-shadow: 2px 4px;
+    text-align: center;
+    margin: 10px;
+}
+#double4 {
+    border: solid black;
+    border-radius: 20px;
+    box-shadow: 2px 4px;
+    text-align: center;
+    margin: 10px;
+}
+#double5 {
+    border: solid black;
+    border-radius: 20px;
+    text-align: center;
+    margin: 10px;
+    box-shadow: 2px 4px;
+}
+#double6 {
+    border: solid black;
+    border-radius: 20px;
+    box-shadow: 2px 4px;
+    text-align: center;
+    margin: 10px; 
+}
+.section4 {
+    display: flex;
+    background-color: #E1EBE6;
+}
+#some {
+margin: 10%;
+text-align: center;
+
+}
+.section4 img {
+    margin-left: 11%;
+    margin-top: 5%;
+}
+.section5 {
+    margin-top: 0%;
+}
+#logo2 {
+    display: flex;
+}
+.section6 {
+    display: flex;
+   justify-content: space-between;
+   margin-top: 0%;
+   background-color: #E1EBE6;
+   margin-bottom: 1%;
+}
+#sitemap ul{
+list-style: none;
+}
+#subscribe button{
+    background-color: #F6B400;
+}
+
+footer {
+   justify-content: space-between;
+   display: flex;
 }
