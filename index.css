@@ -25,3 +25,15 @@ html {
     margin-bottom: 5%;
     margin-left: 40%;
 }
+#navbar {  
+    margin-top: 0%;
+    margin-bottom: 5%;
+}
+#order2  {
+    background-color: #F6B400;
+    left: -50;
+    height: 300px;
+    width: 50%;
+    border-right: solid #F6B400;
+    border-width: 130px;
+}
