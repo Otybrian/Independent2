@@ -172,5 +172,10 @@ background-color: #E1EBE6;
         #subscribe button{
             background-color: #F6B400;
         }
+        footer {
+            justify-content: space-between;
+            display: flex;
+            }
+            
         
        
