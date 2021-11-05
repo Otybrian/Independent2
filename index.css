@@ -37,3 +37,54 @@ html {
     border-right: solid #F6B400;
     border-width: 130px;
 }
+.order {
+    margin-bottom: 4%%;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10%;
+}
+.first {
+    margin-top: 5%;
+}
+.second {
+display: flex;
+margin-top: 0%;
+height: 350px;
+background-color: #E1EBE6;
+}
+.menu {
+    display: flex;
+    text-align: center;
+    margin-left: 45%;
+}
+#menu {
+    color: #F6B400;
+}
+.second #quality {
+    border: solid black;
+    text-align: center;
+    border-radius: 15px;
+    width: 300px;
+    margin: 10px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    padding: 5px;
+}
+.second #fast {
+    border: solid black;
+    text-align: center;
+    border-radius: 15px;
+    width: 300px;
+    margin: 10px;
+    padding: 5px;
+}
+.second #delicious {
+    border: solid black;
+    text-align: center;
+    border-radius: 15px;
+    width: 300px;
+    margin: 10px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    padding: 5px;
+}
