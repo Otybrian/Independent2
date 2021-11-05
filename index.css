@@ -88,3 +88,13 @@ background-color: #E1EBE6;
     margin-top: 20px;
     padding: 5px;
 }
+.third h1 {
+    text-align: center;
+}
+.one {
+    display: flex;
+
+}
+.two {
+    display: flex;
+}
