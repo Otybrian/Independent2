@@ -98,3 +98,46 @@ background-color: #E1EBE6;
 .two {
     display: flex;
 }
+#double1 {
+    border: solid black;
+    border-radius: 20px;
+    box-shadow: 2px 4px;
+    text-align: center;
+    margin: 10px;
+    }
+    #double2 {
+        border: solid black;
+        border-radius: 20px;
+        box-shadow: 2px 4px;
+        text-align: center;
+        margin: 10px;
+    }
+    #double3 {
+        border: solid black;
+        border-radius: 20px;
+        box-shadow: 2px 4px;
+        text-align: center;
+        margin: 10px;
+    }
+    #double4 {
+        border: solid black;
+        border-radius: 20px;
+        box-shadow: 2px 4px;
+        text-align: center;
+        margin: 10px;
+    }
+    #double5 {
+        border: solid black;
+        border-radius: 20px;
+        text-align: center;
+        margin: 10px;
+        box-shadow: 2px 4px;
+    }
+    #double6 {
+        border: solid black;
+        border-radius: 20px;
+        box-shadow: 2px 4px;
+        text-align: center;
+        margin: 10px; 
+    }
+   
