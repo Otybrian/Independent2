@@ -2,3 +2,16 @@ html {
     width: 900px;
     text-align: center;
 }
+#logo {
+    display: flex;  
+    margin-top: 3%;
+}
+.lo {
+    display: flex;
+}
+#lo2 {
+    color: #F6B400;
+}
+.order #order1 button {
+    background-color: #F6B400;
+}
