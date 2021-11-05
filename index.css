@@ -140,4 +140,17 @@ background-color: #E1EBE6;
         text-align: center;
         margin: 10px; 
     }
+    .fourth {
+        display: flex;
+        background-color: #E1EBE6;
+    }
+    #some {
+    margin: 10%;
+    text-align: center;
+    
+    }
+    .fourth img {
+        margin-left: 11%;
+        margin-top: 5%;
+    }
    
