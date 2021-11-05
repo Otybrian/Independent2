@@ -153,4 +153,10 @@ background-color: #E1EBE6;
         margin-left: 11%;
         margin-top: 5%;
     }
-   
+    .fifth {
+        margin-top: 0%;
+    }
+    #logo2 {
+        display: flex;
+    }
+  
